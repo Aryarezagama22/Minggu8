@@ -1,0 +1,25 @@
+header{
+background-color: aqua;
+border: 6px green;
+content: normal;
+text-align: center;
+display: block;
+}
+
+nav{
+    background-color: rgb(29, 120, 120);
+    border: 8px black;
+    display: block;
+    
+
+}
+
+article{
+background-color: rgb(86, 89, 88);
+boder : 6px
+}
+
+footer{
+    text-align: center;
+
+}
